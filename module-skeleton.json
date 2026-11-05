@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-back-in-stock-and-price-alerts-nuxt",
+  "capabilityKey": "planned:ecommerce:back-in-stock-and-price-alerts",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-back-in-stock-and-price-alerts-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/back-in-stock-and-price-alerts.md",
+  "presentationPlan": "projects/ecommerce/nuxt/back-in-stock-and-price-alerts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
